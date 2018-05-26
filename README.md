@@ -4,4 +4,4 @@
 
 Getting Started 
 
-Download [GameSalad Software] (https://gamesalad.com/download/) 
+Download [GameSalad Software](https://gamesalad.com/download/) 
