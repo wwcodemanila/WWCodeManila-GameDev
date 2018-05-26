@@ -6,4 +6,4 @@ Getting Started
 
 Download [GameSalad Software](https://gamesalad.com/download/) 
 
-# Hello Pandas :panda_face:
+# Hello Gamers  :video_game: :panda_face:
